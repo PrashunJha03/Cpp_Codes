@@ -79,7 +79,6 @@ int main()
     {
         cout << "Sale amount not found." << endl;
     }
-
+    
     return 0;
 }
-
