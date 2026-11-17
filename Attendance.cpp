@@ -4,7 +4,6 @@ Tasks:
 Count attendance percentage per student
 Identify students with < 75% attendance*/
 
-
 #include <iostream>
 using namespace std;
 
