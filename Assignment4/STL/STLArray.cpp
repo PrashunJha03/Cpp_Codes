@@ -3,7 +3,6 @@
 #include <array>
 #include <algorithm>
 using namespace std;
-
 int main()
 {
     array<int, 5> a = {50, 20, 40, 10, 30};
@@ -26,6 +25,5 @@ int main()
 
     cout << "\nFirst element: " << a.front();
     cout << "\nLast element: " << a.back();
-
     return 0;
 }
