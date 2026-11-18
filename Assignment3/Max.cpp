@@ -1,6 +1,5 @@
 // WAP to βind the maximum of 3 values that can either be integer, βloat or char using function overloading.
 
-
 #include <iostream>
 using namespace std;
 
@@ -47,6 +46,6 @@ int main()
 
     cout << "Maximum character = "
          << maximum('A', 'Z', 'M') << endl;
-
+    
     return 0;
 }
