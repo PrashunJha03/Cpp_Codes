@@ -19,6 +19,5 @@ int main()
     int result = count(v.begin(), v.end(), num);
 
     cout << num << " occurs " << result << " times.";
-
     return 0;
 }
