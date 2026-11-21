@@ -3,7 +3,6 @@
 
 #include <iostream>
 using namespace std;
-
 int main()
 {
     // Declare a 2x3 matrix
@@ -50,6 +49,5 @@ int main()
         }
         cout << endl;
     }
-
     return 0;
 }
