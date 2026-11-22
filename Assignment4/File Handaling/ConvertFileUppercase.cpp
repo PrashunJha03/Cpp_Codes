@@ -3,7 +3,6 @@
 #include <cctype
 
 using namespace std;
-
 int main()
 {
     ifstream fin("lowercase.txt");
