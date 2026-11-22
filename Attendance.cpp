@@ -6,7 +6,6 @@ Identify students with < 75% attendance*/
 
 #include <iostream>
 using namespace std;
-
 int main()
 {
     const int students = 4;
