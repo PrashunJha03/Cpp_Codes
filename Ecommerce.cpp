@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 int main()
 {
     const int size = 30;
@@ -82,3 +81,4 @@ int main()
     
     return 0;
 }
+
