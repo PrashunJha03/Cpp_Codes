@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 int main()
 {
     const int size = 8;
@@ -112,4 +111,5 @@ int main()
          << gstCount << endl;
 
     return 0;
+
 }
